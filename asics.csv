@@ -1,0 +1,38 @@
+Chip,chip released,Chipset Serial,Chipset Family,Aggregated BW,SerDes,common usage,Buffer,Latency,References
+arad+,mid 2015,BCM88660,StrataDNX,,,,,,
+FE3600,,BCM88770,StrataDNX Fabric,3.6 Tbps,,,,,https://www.broadcom.com/products/ethernet-connectivity/switching/stratadnx/bcm88770
+Jericho,,BCM88670,StrataDNX,720 Gbps,24 x 25G + 48 x 10G,,,,https://www.broadcom.com/products/ethernet-connectivity/switching/stratadnx/bcm88670
+Jericho 2,mid 2018,BCM88690,StrataDNX,10 Tbps,96 x 50G,,,,https://www.broadcom.com/products/ethernet-connectivity/switching/stratadnx/bcm88690
+Jericho 2c,mid 2019,BCM88800,StrataDNX,4.8 Tbps,32 x 50G + 96 x 25G,,,,https://www.broadcom.com/products/ethernet-connectivity/switching/stratadnx/bcm88800
+Jericho 2c+,,BCM88850,,14.4 Tbps ,144 x 50G,,,,
+Jericho+,mid 2016,BCM88680,StrataDNX,900 Gbps,48 x 25G + 24 x 10G,,,,https://www.broadcom.com/products/ethernet-connectivity/switching/stratadnx/bcm88680
+Qumran 2a,,,,800 Gbps,16 x 50G + 36 x 25G,,,,https://www.broadcom.com/products/ethernet-connectivity/switching/stratadnx/bcm88480
+Qumran 2c,mid 2019,BCM88820,StrataDNX,2.4 Tbps,,,,,https://www.broadcom.com/products/ethernet-connectivity/switching/stratadnx/bcm88820
+Qumran AX,end 2016,BCM88470,StrataDNX,300 Gbps,16 x 25G + 32 x 10G,,,,https://www.broadcom.com/products/ethernet-connectivity/switching/stratadnx/bcm88470
+Qumran MX,mid 2016,BCM88370,StrataDNX,800 Gbps,24 x 25G + 48 x 10G,,,,https://www.broadcom.com/products/ethernet-connectivity/switching/stratadnx/bcm88370
+Qumran UX,ealy 2017,BCM88270,StrataDNX,120 Gbps,8 x 10G + 28 x 2.5G,,,,https://www.broadcom.com/products/ethernet-connectivity/switching/stratadnx/bcm88270
+Qumran2u,,BCM88280,,360 Gbps,36 / 40 x25G,,,,https://www.broadcom.com/products/ethernet-connectivity/switching/stratadnx/bcm88280
+Ramon,,BCM88790,StrataDNX Fabric,9.6 Tbps,,,,,https://www.broadcom.com/products/ethernet-connectivity/switching/stratadnx/bcm88790
+Tofino,,BFN-T10-018D,Tofino,1.8 Tbps,,,20 MB,,
+Tomahawk,early 2015,BCM56960,StrataXGS,3.2 Tbps,128 x 25G,"32x 100GbE,64x 40GbE,128x 25GbE",16MB (4x4MB),550 ns,https://www.broadcom.com/products/ethernet-connectivity/switching/strataxgs/bcm56960-series
+Tomahawk 2,mid 2016,BCM56970,StrataXGS,6.4 Tbps,256 x 25G,"64x 100GbE,128x 40GbE",42MB (4x10.5MB),420 ns,https://www.broadcom.com/products/ethernet-connectivity/switching/strataxgs/bcm56970-series
+Tomahawk 3,end 2017,BCM56980,StrataXGS,12.8 Tbps,256 x 50G,"32 × 400G, 128 × 100G",64 MB,430 ns (unloaded),https://www.broadcom.com/products/ethernet-connectivity/switching/strataxgs/bcm56980-series
+Tomahawk 3,,BCM56982,StrataXGS,8 Tbps,,"20 × 400G, 48 × 100G + 8 × 400G",64 MB,,https://www.broadcom.com/products/ethernet-connectivity/switching/strataxgs/bcm56980-series
+Tomahawk 3,,BCM56983,StrataXGS,6.4 Tbps,,16 × 400G,32 MB,430 ns (unloaded),https://www.broadcom.com/products/ethernet-connectivity/switching/strataxgs/bcm56980-series
+Tomahawk 3,,BCM56984,StrataXGS,6.4 Tbps,,64 × 100G,64 MB,,https://www.broadcom.com/products/ethernet-connectivity/switching/strataxgs/bcm56980-series
+Tomahawk 4,,BCM56990,StrataXGS,25.6 Tbps,64 x 50G or 32 x 100G,,113.66 MB,450 ns,https://www.broadcom.com/products/ethernet-connectivity/switching/strataxgs/bcm56990-series
+Tomahawk+,,BCM56963,StrataXGS,3.2 Tbps,,,22 MB,550 ns,
+Trident 2,,BCM56850,StrataXGS,1.28 Tbps,104 x 10G / 32 x 40G,10GbE/40GbE switch,12.2 MB,550 ns,https://www.broadcom.com/products/ethernet-connectivity/switching/strataxgs/bcm56850-series
+Trident 2+,mid 2015,BCM56860,StrataXGS,1.28 Tbps,128 x 10G,"1/10 10GbE, 40 GbE",16 MB,550 ns,https://www.broadcom.com/products/ethernet-connectivity/switching/strataxgs/bcm56860-series
+Trident 4,mid 2019,BCM56880,StrataXGS,12.8 Tbps,256 x 50G,"32x 400GbE
+64x 200GbE
+128x 100GbE",132 MB,,https://www.broadcom.com/products/ethernet-connectivity/switching/strataxgs/bcm56880-series
+Trident+,,BCM56840,StrataXGS,640 Gbps ( or 480 Gbps),48 x 10G,"1/10 10GbE, 40 GbE",9 MB,3.3 us,https://docs.broadcom.com/doc/12358267
+Trident3-X2,,BCM56275,StrataXGS,244 Gbps,,24x1GbE + 16x10GbE + 4x25GbE,32 MB,,https://www.broadcom.com/products/ethernet-connectivity/switching/strataxgs/bcm56275-series
+Trident3-X3,,BCM56370,StrataXGS,560 Gbps,,"24x10GbE + 12x25G
+12x10GbE + 36x2.5GbE + 12x25GbE",32 MB,,https://www.broadcom.com/products/ethernet-connectivity/switching/strataxgs/bcm56370-series
+Trident3-X4,,BCM56470,StrataXGS,1.7 Tbps,,68x 25GbE,32 MB,,https://www.broadcom.com/products/ethernet-connectivity/switching/strataxgs/bcm56470-series
+Trident3-X5,,BCM56770,StrataXGS,2 Tbps,80 x 25G,"20x 100GbE,40x 40GbE,64x 25GbE",32 MB,,https://www.broadcom.com/products/ethernet-connectivity/switching/strataxgs/bcm56770-series
+Trident3-X7,mid 2017,BCM56870,StrataXGS,3.2 Tbps,128x 25G,"32x 100GbE
+64x 40GbE
+128x 25GbE",32 MB,800 ns,https://www.broadcom.com/products/ethernet-connectivity/switching/strataxgs/bcm56870-series

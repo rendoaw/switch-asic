@@ -1,0 +1,32 @@
+Vendor,Chassis,ASIC
+Arista,7048,Petra
+Arista,7050,Trident+
+Arista,7150,Fulcrum FM6000
+Arista,7010T,Helix4
+Arista,7020R,QumranAX
+Arista,7050X,Trident2
+Arista,7050X2,Trident2+
+Arista,7050X3,Trident3
+Arista,7060X,Tomahawk
+Arista,7060X2,Tomahawk+
+Arista,7060X3,Tomahawk2
+Arista,7060X4,Tomahawk3
+Arista,7280E,Arad+
+Arista,7280R,Jericho/QumranMX
+Arista,7280R2,Jericho+
+Arista,7280R3,Jericho2
+Cisco,Nexus 3100,Trident2
+Cisco,Nexus 3100-V,Trident2+
+Cisco,Nexus 3100-Z,Trident3
+Cisco,Nexus 3200,Tomahawk
+Cisco,Nexus 3200-E,Tomahawk2
+Cisco,Nexus 3400,Tofino
+Cisco,Nexus 3500,Cisco Monticello
+Cisco,Nexus 3600,Jericho+
+Juniper,QFX10000,Q5
+Juniper,QFX5100,Trident2
+Juniper,QFX5110,Trident2+
+Juniper,QFX5120,Trident3
+Juniper,QFX5200,Tomahawk
+Juniper,QFX5210,Tomahawk+
+Juniper,QFX5220,Tomahawk2
