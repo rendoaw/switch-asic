@@ -7,8 +7,8 @@ I am also open for any contribution, feel free to create PR to add/modify the da
 
 
 Contents:
-[asics.csv](asics.csv) contains the ASIC characteristics
-[chassis_and_asics.csv](chassis_and_asics.csv) Mapping between specific chassis to ASIC
-[chassis_and_asics_summary.csv](chassis_and_asics_summary.csv) Some naming convention how to map chassis to ASIC
-[links.md](links.md) Contains links to the original document
+* [asics.csv](asics.csv) contains the ASIC characteristics
+* [chassis_and_asics.csv](chassis_and_asics.csv) Mapping between specific chassis to ASIC
+* [chassis_and_asics_summary.csv](chassis_and_asics_summary.csv) Some naming convention how to map chassis to ASIC
+* [links.md](links.md) Contains links to the original document
 
